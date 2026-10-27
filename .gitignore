@@ -1,0 +1,17 @@
+# Maven build output
+target/
+
+# Runtime data (delete this folder to reset the demo data)
+data/
+
+# IDE and editor files
+.idea/
+*.iml
+.vscode/
+nbproject/private/
+.build/
+
+# Logs and JVM crash dumps
+*.log
+hs_err_pid*
+replay_pid*
